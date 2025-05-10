@@ -1,5 +1,5 @@
 # mascon2loading
-calculate 3-D deformation due to mass loading
+mascon2loading: A MATLAB-based tool for calculating 3-D deformation due to surface mass loading
 
 MATLAB Code for calculating Earth surface's 3-D loading displacement due to surface mass changes in idealized spherical reference frame;
 
